@@ -74,8 +74,6 @@ void draw() {
     z = 35;
   }
   rect(250, y, 100, 30);
-  
-
 }
 
 // Mouse Events
